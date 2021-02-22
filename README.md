@@ -2,10 +2,13 @@
 
 Estudiante de Desarrollo de Software
 
-Mis hobbies:
-- Videojuegos
-- Ayudar en programas de codigo abierto
-- Aprende nuevas cosas
+<b>Programador jr en Backend :octocat:</b>
+
+<h3>Hobbies:</h3>
+
+- [x] Videojuegos 
+- [x] Ayudar en programas de codigo abierto
+- [x] Aprende nuevas cosas
 
 
 ### Date una vuelta por los Repositorios y no olvides tu Follow
