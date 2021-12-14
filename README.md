@@ -5,8 +5,7 @@
    “role” : “Fullstack DEV”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "IG"       : "https://www.instagram.com/veritechie"
+      "Linkedin" : "https://www.linkedin.com/in/josue-salvador-pati%C3%B1o-degollado-208b47149/", 
      },
    “work” :
      {
