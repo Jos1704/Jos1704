@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Josue Salvador Patiño Degollado”,
-   “role” : “Fullstack DEV”,
+   “role” : “Back-end”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/josue-salvador-pati%C3%B1o-degollado-208b47149/", 
@@ -14,6 +14,7 @@
       "BIT": "https://www.recargabien.com.mx/login",
       "INVITECH" : "http://www.invitech.com.mx/",
       "CATINK": "http://catink.net",
+      "PETYCARD": "https://petycard.com",
      }
  }
 ```
